@@ -1,6 +1,6 @@
 {
   "name": "asimile",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Replaces Turkish characters with their English counterparts.",
   "main": "index.js",
   "scripts": {
