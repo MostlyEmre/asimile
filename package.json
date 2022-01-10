@@ -1,0 +1,28 @@
+{
+  "name": "asimile",
+  "version": "1.0.0",
+  "description": "Replaces Turkish characters with their English counterparts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MostlyEmre/asimile.git"
+  },
+  "keywords": [
+    "turkish",
+    "turkce",
+    "ingilizce",
+    "english",
+    "karater",
+    "character",
+    "replace"
+  ],
+  "author": "Emre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MostlyEmre/asimile/issues"
+  },
+  "homepage": "https://github.com/MostlyEmre/asimile#readme"
+}
